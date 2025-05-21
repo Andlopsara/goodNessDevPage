@@ -1,12 +1,11 @@
 ---
 enable: true
-title: "Curved Collection for Your
-Bedroom Get 25% Off"
+title: "Refresh Your Bedroom in Style – 25% Off!"
 sub_title: "Deal of the Week"
 image: "/images/call-to-action.png"
-description: "Subscribe our Newsletter and get all latest information and offers"
+description: "Subscribe to our newsletter and be the first to hear about exclusive promotions, new releases, and tips to transform your home."
 button:
   enable: true
-  label: "Shop Now"
+  label: "See Products"
   link: "/products"
 ---

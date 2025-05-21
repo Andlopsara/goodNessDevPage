@@ -3,22 +3,22 @@
     {
       "name": "facebook",
       "icon": "FaFacebookF",
-      "link": "https://www.facebook.com/themefisher"
+      "link": "https://github.com/Andlopsara/andlopsara"
     },
     {
       "name": "twitter",
       "icon": "FaXTwitter",
-      "link": "https://x.com/themefisher"
+      "link": "https://github.com/Andlopsara/andlopsara"
     },
     {
       "name": "linkedin",
       "icon": "FaLinkedinIn",
-      "link": "https://bd.linkedin.com/company/themefisher"
+      "link": "https://github.com/Andlopsara/andlopsara"
     },
     {
       "name": "github",
       "icon": "FaGithub",
-      "link": "https://github.com/themefisher/astrofront"
+      "link": "https://github.com/Andlopsara/andlopsara"
     }
   ]
 }

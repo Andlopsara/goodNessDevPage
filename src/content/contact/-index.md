@@ -1,20 +1,20 @@
 ---
 title: "Connect with Us"
-meta_title: ""
-description: "this is meta description"
+meta_title: "Contact"
+description: "We’re here to help. Get in touch with Goodness Developers for any inquiries, feedback, or collaboration opportunities."
 draft: false
 
 #Contact Options
 contact_meta:
   - name: "Address"
-    contact: "123 Main Street, Anytown, </br> CA 12335 - USA"
+    contact: "Carretera 57, Km. 31 + 150, Santa Rosa Jáuregui,</br> Querétaro, Qro., C.P. 76220 - México"
 
   - name: "Email"
-    contact: "yourmail@domain.com </br> support@domain.com"
+    contact: "contacto@goodnessdevelopers.com </br> soporte@goodnessdevelopers.com"
 
   - name: "Phone"
-    contact: "Mobile: (08) 123 456 789 </br> Hotline: 1009 678 456"
+    contact: "Teléfono: +52 (442) 196 1300 </br> WhatsApp: +52 (442) 000 0000"
 
   - name: "Shop Time"
-    contact: "Available at 10am-8pm </br>"
+    contact: "Lunes a Sábado: 10:00am - 8:00pm </br> Domingo: Cerrado"
 ---
