@@ -8,7 +8,7 @@
     "logo": "/images/logo.png",
     "logo_darkmode": "/images/logo-darkmode.png",
     "logo_width": "150",
-    "logo_height": "33",
+    "logo_height": "150",
     "logo_text": "Astrofront"
   },
 
@@ -22,7 +22,7 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Diseñado y desarrollado por Goodness Developer"
+    "copyright": "Diseñado y desarrollado por Braae Company"
   },
 
   "navigation_button": {
@@ -32,7 +32,7 @@
   },
 
   "metadata": {
-    "meta_author": "Goodness Developer",
+    "meta_author": "Goodness Developers",
     "meta_image": "/images/og-image.png",
     "meta_description": " Tienda en línea para Shopify adaptado para México"
   },

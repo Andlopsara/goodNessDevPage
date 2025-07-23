@@ -1,5 +1,5 @@
 .bg-gradient {
-  @apply bg-gradient-to-r from-[#F4F4F4] to-[#F4F4F43D] dark:from-darkmode-light dark:to-darkmode-body;
+  @apply bg-gradient-to-r from-[#e6e3e1] to-[#F4F4F43D] dark:from-darkmode-light dark:to-darkmode-body;
 }
 
 .rounded-sm {
